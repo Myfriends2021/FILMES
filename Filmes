@@ -1,9 +1,49 @@
 <channels>
 <channel>
-<name>[COLOR orange][B]TOP FILMES[/B][/COLOR]</name>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AhRSv4npEaE8ZvuJh4CmQpsXDZg.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Myfriends2021/Filmes-torrents/main/Filmes%20Torrents</externallink>
-<fanart>https://www.themoviedb.org/t/p/original/27ox2saMyxSq93CVwylNO6a5pnP.jpg</fanart>
+<name>[COLOR orange][B]AÇÃO [/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>Os amigos podem indicar o filme, fiquem a vontade</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
+<name>[COLOR orange][B]DRAMAS[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>Os amigos podem indicar o filme, fiquem a vontade</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
+<name>[COLOR orange][B]TERROR[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>Os amigos podem indicar o filme, fiquem a vontade</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
+<name>[COLOR orange][B]FICÇÃO[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
+<info>Os amigos podem indicar o filme, fiquem a vontade</info>
+</channel>
+</channels>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<channels>
+<channel>
+<name>[COLOR orange][B]ANIMAÇÃO[/B][/COLOR]</name>
+<thumbnail></thumbnail>
+<externallink></externallink>
+<fanart></fanart>
 <info>Os amigos podem indicar o filme, fiquem a vontade</info>
 </channel>
 </channels>
